@@ -1,0 +1,74 @@
+
+    #Comparison Operators
+    
+    "In this repositary we will learn Comparison Operators in Python. These operators will allow us to compare variables and output a Boolean value (True or False). \n",
+    
+    
+    First we'll present a table of the comparison operators and then work through some examples
+    #comparision operators are used to compare two values :
+     
+  s.no        operator     name           example
+
+   1.          ==         Equal          a==b
+
+   2.          !=         not equal      a!=b
+
+   3.          >          greater than   a>b
+
+   4.          <          less than      a<b
+ 
+   5.          >=         greater than   a>=b
+                          or equal to  
+
+   6.          <=         less than or   a<=b
+                          equal to
+
+  #lets try it with python code
+
+   1.equal
+   a=3
+   b=5
+   
+   print(a == b) 
+   #returns false because 5 is not equal to 3.
+
+
+
+   2.not equal
+    a=5
+    b=3
+ 
+    print(a! = b)
+    #returns true because 5 is not equal to 3
+
+   3.greater than
+    a=5
+    b=3
+
+    print(a > b)
+    #returns true because 5 is greater than 3
+
+   4.less than
+    a=5
+    b=3
+   
+    print(a < b)
+    #returns false because 5 is greater than 3
+
+   5.greater than or equal to
+    a=5
+    b=3
+   
+    print(a >= b)
+    #returns true because 5 is greater than or equal to 3
+
+   6.less than or equal to
+    a=5
+    b=3
+
+    print(a <= b)
+    #returns false because 5 id neither less than or equal to 3   
+
+
+    
+   thank you! Go over each comparison operator to make sure you understand what each one is saying. But hopefully this was straightforward for you.
